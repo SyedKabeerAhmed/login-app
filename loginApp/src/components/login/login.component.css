@@ -1,0 +1,49 @@
+ .container{
+   height: 100vh;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+
+ form h1{
+   text-align: center;
+ }
+ form {
+   border: 1px solid #111;
+   padding: 40px 25px;
+   border-radius: 5px;
+
+ }
+ 
+ .p-container {
+   text-align: center;
+   padding-bottom: 20px;
+ }
+ .p-container input{
+   background-color: black;
+   color: #fff;
+   font-weight: 800;
+   padding: 5px;
+  
+ }
+  input{
+   width: 100%;
+ }
+ .input{
+   width: 15rem;
+   border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin-bottom: 10px;
+
+ }
+
+
+
+ 
+
+ 
+
+ 
+ 
